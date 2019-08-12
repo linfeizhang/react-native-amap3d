@@ -1,23 +1,23 @@
 [
     {
-        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",

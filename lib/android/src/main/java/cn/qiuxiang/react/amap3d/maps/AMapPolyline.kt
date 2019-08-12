@@ -10,6 +10,9 @@ import com.amap.api.maps.model.PolylineOptions
 import com.facebook.react.bridge.ReadableArray
 import com.facebook.react.views.view.ReactViewGroup
 
+import com.amap.api.maps.model.BitmapDescriptor
+import com.amap.api.maps.model.BitmapDescriptorFactory
+
 class AMapPolyline(context: Context) : ReactViewGroup(context), AMapOverlay {
     var polyline: Polyline? = null
         private set
@@ -57,9 +60,51 @@ class AMapPolyline(context: Context) : ReactViewGroup(context), AMapOverlay {
     fun setColors(colors: ReadableArray) {
         this.colors = ArrayList((0 until colors.size()).map { colors.getInt(it) })
     }
+ /**
+     * Created by adminZPH on 2017/4/14.
+     * 设置线条中的纹理的方法
+     * @return PolylineOptions
+     * 
+    public static PolylineOptions GetPolylineOptions(){
+        //添加纹理图片
+        val drawable = context.resources.getIdentifier(image, "drawable", context.packageName)
+        List<BitmapDescriptor> textureList = new ArrayList<BitmapDescriptor>();
+        BitmapDescriptor mRedTexture = BitmapDescriptorFactory
+                .fromResource(R.mipmap.icon_road_white_arrow);
+        BitmapDescriptor mBlueTexture = BitmapDescriptorFactory
+                .fromResource(R.mipmap.icon_road_white_arrow);
+        BitmapDescriptor mGreenTexture = BitmapDescriptorFactory
+                .fromResource(R.mipmap.icon_road_white_arrow);
+        textureList.add(mRedTexture);
+        textureList.add(mBlueTexture);
+        textureList.add(mGreenTexture);
+        // 添加纹理图片对应的顺序
+        List<Integer> textureIndexs = new ArrayList<Integer>();
+        textureIndexs.add(0);
+        textureIndexs.add(1);
+        textureIndexs.add(2);
+        PolylineOptions polylienOptions=new PolylineOptions();
+        polylienOptions.setCustomTextureList(textureList);
+        polylienOptions.setCustomTextureIndex(textureIndexs);
+        polylienOptions.setUseTexture(true);
+        polylienOptions.width(7.0f);
+        return polylienOptions;
+    }
 
+*/
     override fun add(map: AMap) {
+        //添加纹理图片
+        var mipmap = context.resources.getIdentifier("icon_road_white_arrow", "mipmap", context.packageName)
+        var textureList:ArrayList<BitmapDescriptor> = ArrayList();
+        var mWhiteTexture:BitmapDescriptor = BitmapDescriptorFactory.fromResource(mipmap);
+        textureList.add(mWhiteTexture);
+        // 添加纹理图片对应的顺序
+        var textureIndexs:List<Integer> = ArrayList();
+
+
         polyline = map.addPolyline(PolylineOptions()
+                //.setCustomTextureList(textureList)
+                .setUseTexture(true)
                 .addAll(coordinates)
                 .color(color)
                 .colorValues(colors)
