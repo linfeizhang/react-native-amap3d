@@ -79,6 +79,11 @@ internal class AMapMarkerManager : ViewGroupManager<AMapMarker>() {
         marker.flat = flat
     }
 
+    @ReactProp(name = "rotateAngle")
+    fun setRotateAngle(marker: AMapMarker, rotateAngle: Float) {
+        marker.rotateAngle = rotateAngle
+    }
+    
     @ReactProp(name = "opacity")
     override fun setOpacity(marker: AMapMarker, opacity: Float) {
         marker.opacity = opacity

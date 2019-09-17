@@ -65,6 +65,12 @@ class AMapMarker(context: Context) : ReactViewGroup(context), AMapOverlay {
             marker?.isFlat = value
         }
 
+    var rotateAngle: Float = 0f
+        set(value) {
+            field = value
+            marker?.rotateAngle = value
+        }
+            
     var opacity: Float = 1f
         set(value) {
             field = value
@@ -108,6 +114,7 @@ class AMapMarker(context: Context) : ReactViewGroup(context), AMapOverlay {
     override fun add(map: AMap) {
         marker = map.addMarker(MarkerOptions()
                 .setFlat(flat)
+                .rotateAngle(rotateAngle)
                 .icon(bitmapDescriptor)
                 .alpha(opacity)
                 .draggable(draggable)
