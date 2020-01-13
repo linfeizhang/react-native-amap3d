@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

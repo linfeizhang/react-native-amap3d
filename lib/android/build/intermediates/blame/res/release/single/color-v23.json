@@ -1,10 +1,38 @@
 [
     {
-        "merged": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
-        "source": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/color-v23/abc_tint_btn_checkable.xml"
     }
 ]

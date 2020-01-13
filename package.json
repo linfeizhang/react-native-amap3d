@@ -1,33 +1,31 @@
 {
-  "_from": "react-native-amap3d@1.1.0",
+  "_from": "git+https://github.com/linfeizhang/react-native-amap3d.git",
   "_id": "react-native-amap3d@1.1.0",
   "_inBundle": false,
   "_integrity": "sha1-7CBOjRbHZckmDUcDq266ekQbCsU=",
   "_location": "/react-native-amap3d",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "react-native-amap3d@1.1.0",
+    "type": "git",
+    "raw": "react-native-amap3d@git+https://github.com/linfeizhang/react-native-amap3d.git",
     "name": "react-native-amap3d",
     "escapedName": "react-native-amap3d",
-    "rawSpec": "1.1.0",
-    "saveSpec": null,
-    "fetchSpec": "1.1.0"
+    "rawSpec": "git+https://github.com/linfeizhang/react-native-amap3d.git",
+    "saveSpec": "git+https://github.com/linfeizhang/react-native-amap3d.git",
+    "fetchSpec": "https://github.com/linfeizhang/react-native-amap3d.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/react-native-amap3d/download/react-native-amap3d-1.1.0.tgz",
-  "_shasum": "ec204e8d16c765c9260d4703ab6eba7a441b0ac5",
-  "_spec": "react-native-amap3d@1.1.0",
-  "_where": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin",
+  "_resolved": "git+https://github.com/linfeizhang/react-native-amap3d.git#0084c24c074dcc6756397b8dbeef8e2d687ef7b2",
+  "_spec": "react-native-amap3d@git+https://github.com/linfeizhang/react-native-amap3d.git",
+  "_where": "/Volumes/Mac/workroom/coding/smartfleet-user-app",
   "author": {
-    "name": "Qiu Xiang",
-    "email": "i@7c00.cc"
+    "name": "linfei",
   },
   "bugs": {
-    "url": "https://github.com/qiuxiang/react-native-amap3d/issues"
+    "url": "https://github.com/linfeizhang/react-native-amap3d/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -44,7 +42,7 @@
     "lib/android/build.gradle",
     "lib/ios"
   ],
-  "homepage": "https://github.com/qiuxiang/react-native-amap3d#readme",
+  "homepage": "https://github.com/linfeizhang/react-native-amap3d#readme",
   "keywords": [
     "react-native",
     "amap",
@@ -59,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qiuxiang/react-native-amap3d.git"
+    "url": "git+https://github.com/linfeizhang/react-native-amap3d.git"
   },
   "rnpm": {
     "android": {

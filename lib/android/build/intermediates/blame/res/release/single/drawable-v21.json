@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/4d4004e09e10756970fe4da5e683fc7c/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/434f490e1df7361fd80f2bd07b319933/res/drawable-v21/abc_list_divider_material.xml"
     }
 ]

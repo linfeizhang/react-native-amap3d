@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/4d4004e09e10756970fe4da5e683fc7c/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/4d4004e09e10756970fe4da5e683fc7c/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/4d4004e09e10756970fe4da5e683fc7c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/4d4004e09e10756970fe4da5e683fc7c/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

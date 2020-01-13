@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/xml/preferences.xml",
-        "source": "/Volumes/Mac/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
-    },
-    {
-        "merged": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/xml/preferences.xml",
-        "source": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin/node_modules/react-native-amap3d/lib/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+        "merged": "/Volumes/Mac/workroom/coding/smartfleet-user-app/node_modules/react-native-amap3d/lib/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/zhanglinfeimacair/.gradle/caches/transforms-2/files-2.1/5466622f5e85a718ffc418a99db5c036/res/xml/rn_dev_preferences.xml"
     }
 ]
